@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 495.0760999999999,
+    "videos": [
         "Ni negro ni blanco-f-JXtXI28ps.mp4",
         "Noche De Ronda-U0CzzzSpFZg.mp4",
         "Ningun Valor - Skalariak-Y7s110difEA.mp4",
@@ -60,7 +61,5 @@
         "New Order - Temptation (Official Music Video)-xxDv_RTdLQo.mp4",
         "No Va A Haber Revolución-gcy4DRYyT7E.mp4",
         "No soy Bo Diddley-Nm4LAxfrvic.mp4"
-    ],
-    "id": "n",
-    "total_size": 472.1412958984376
+    ]
 }
