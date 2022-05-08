@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "John Lee Hooker - I'm Bad Like Jesse James (HQ) Subtitulada al español-SBacb2sFdbU.mp4",
+            "path": "music_n/videos/John Lee Hooker - I'm Bad Like Jesse James (HQ) Subtitulada al español-SBacb2sFdbU.mp4",
+            "size": 8.037371904
+        },
+        {
             "name": "Ni negro ni blanco-f-JXtXI28ps.mp4",
             "path": "music_n/videos/Ni negro ni blanco-f-JXtXI28ps.mp4",
             "size": 7.219639296
@@ -362,5 +367,5 @@
             "size": 6.536915968000001
         }
     ],
-    "total_size": 732.7450644480002
+    "total_size": 740.7824363520001
 }
