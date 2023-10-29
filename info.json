@@ -1,5 +1,5 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
         {
             "id": "P2zOb0HGdxg",
@@ -7,6 +7,13 @@
             "path": "/home/alanmatzumiya/Videos/container/n/videos/Natalia Jiménez - Creo en Mi (Official Video)-P2zOb0HGdxg.mp4",
             "size": 15.759824,
             "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/Natalia Jiménez - Creo en Mi (Official Video)-P2zOb0HGdxg.mp4?raw=true"
+        },
+        {
+            "id": "SBacb2sFdbU",
+            "name": "John Lee Hooker - I'm Bad Like Jesse James (HQ) Subtitulada al español [SBacb2sFdbU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/n/videos/John Lee Hooker - I'm Bad Like Jesse James (HQ) Subtitulada al español [SBacb2sFdbU].mp4",
+            "size": 7.848996,
+            "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/John Lee Hooker - I'm Bad Like Jesse James (HQ) Subtitulada al español [SBacb2sFdbU].mp4?raw=true"
         },
         {
             "id": "-Lr8XG4-J9U",
@@ -44,18 +51,18 @@
             "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/No valgo nada (En vivo)-3_slKT4TxP0.mp4?raw=true"
         },
         {
-            "id": "PaUg2d3ICqY",
-            "name": "TfF - 1983 _LP Album-PaUg2d3ICqY.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/n/videos/TfF - 1983 _LP Album-PaUg2d3ICqY.mp4",
-            "size": 71.043058,
-            "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/TfF - 1983 _LP Album-PaUg2d3ICqY.mp4?raw=true"
-        },
-        {
             "id": "RD-t4ptVbrk",
             "name": "No Estoy Convencido-RD-t4ptVbrk.mp4",
             "path": "/home/alanmatzumiya/Videos/container/n/videos/No Estoy Convencido-RD-t4ptVbrk.mp4",
             "size": 1.725339,
             "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/No Estoy Convencido-RD-t4ptVbrk.mp4?raw=true"
+        },
+        {
+            "id": "PaUg2d3ICqY",
+            "name": "TfF - 1983 ⧸LP Album [PaUg2d3ICqY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/n/videos/TfF - 1983 ⧸LP Album [PaUg2d3ICqY].mp4",
+            "size": 60.012322,
+            "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/TfF - 1983 ⧸LP Album [PaUg2d3ICqY].mp4?raw=true"
         },
         {
             "id": "POtfEIu5210",
@@ -84,13 +91,6 @@
             "path": "/home/alanmatzumiya/Videos/container/n/videos/Marie Jaëll (1846-1925) - Piano Concerto Nº 2 en do mineur-TCSDBxs6l28.mp4",
             "size": 32.173216,
             "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/Marie Jaëll (1846-1925) - Piano Concerto Nº 2 en do mineur-TCSDBxs6l28.mp4?raw=true"
-        },
-        {
-            "id": "RCl-vbqAm3c",
-            "name": "No Somos Nada - Corina Smith x Kevin Roldan ( Video Oficial )-RCl-vbqAm3c.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/n/videos/No Somos Nada - Corina Smith x Kevin Roldan ( Video Oficial )-RCl-vbqAm3c.mp4",
-            "size": 12.944135999999999,
-            "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/No Somos Nada - Corina Smith x Kevin Roldan ( Video Oficial )-RCl-vbqAm3c.mp4?raw=true"
         },
         {
             "id": "MDvWcORyp58",
@@ -191,13 +191,6 @@
             "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/Bei Mir Bist Du Schoen (Means That You're Grand)-x5L6FPNcnDU.mp4?raw=true"
         },
         {
-            "id": "0nyIo66KA2Q",
-            "name": "Leif Ove Andsnes plays Rachmaninov's Piano Concerto n.2 - 2nd Mvt.-0nyIo66KA2Q.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/n/videos/Leif Ove Andsnes plays Rachmaninov's Piano Concerto n.2 - 2nd Mvt.-0nyIo66KA2Q.mp4",
-            "size": 36.519253,
-            "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/Leif Ove Andsnes plays Rachmaninov's Piano Concerto n.2 - 2nd Mvt.-0nyIo66KA2Q.mp4?raw=true"
-        },
-        {
             "id": "Y7s110difEA",
             "name": "Ningun Valor - Skalariak-Y7s110difEA.mp4",
             "path": "/home/alanmatzumiya/Videos/container/n/videos/Ningun Valor - Skalariak-Y7s110difEA.mp4",
@@ -210,13 +203,6 @@
             "path": "/home/alanmatzumiya/Videos/container/n/videos/Lidia Borda, Brián Chambouleyron y Esteban Morgado – Patio De Tango (Full Album)-EU9VGqby_VI.mp4",
             "size": 89.865094,
             "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/Lidia Borda, Brián Chambouleyron y Esteban Morgado – Patio De Tango (Full Album)-EU9VGqby_VI.mp4?raw=true"
-        },
-        {
-            "id": "xxDv_RTdLQo",
-            "name": "New Order - Temptation (Official Music Video)-xxDv_RTdLQo.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/n/videos/New Order - Temptation (Official Music Video)-xxDv_RTdLQo.mp4",
-            "size": 27.606112999999997,
-            "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/New Order - Temptation (Official Music Video)-xxDv_RTdLQo.mp4?raw=true"
         },
         {
             "id": "UN6tcdiqELk",
@@ -247,13 +233,6 @@
             "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/New Order  - Turn My Way-yuUi6MKyRwU.mp4?raw=true"
         },
         {
-            "id": "dtd9Qnv_Km8",
-            "name": "Gene Austin - Tamiami Trail, 1926-dtd9Qnv_Km8.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/n/videos/Gene Austin - Tamiami Trail, 1926-dtd9Qnv_Km8.mp4",
-            "size": 11.425753,
-            "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/Gene Austin - Tamiami Trail, 1926-dtd9Qnv_Km8.mp4?raw=true"
-        },
-        {
             "id": "U0CzzzSpFZg",
             "name": "Noche De Ronda-U0CzzzSpFZg.mp4",
             "path": "/home/alanmatzumiya/Videos/container/n/videos/Noche De Ronda-U0CzzzSpFZg.mp4",
@@ -280,13 +259,6 @@
             "path": "/home/alanmatzumiya/Videos/container/n/videos/No Hay Control-th5iJ1972vY.mp4",
             "size": 5.96915,
             "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/No Hay Control-th5iJ1972vY.mp4?raw=true"
-        },
-        {
-            "id": "_YpZjRYBDGg",
-            "name": "Night Flight (Live)-_YpZjRYBDGg.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/n/videos/Night Flight (Live)-_YpZjRYBDGg.mp4",
-            "size": 25.089919,
-            "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/Night Flight (Live)-_YpZjRYBDGg.mp4?raw=true"
         },
         {
             "id": "Oi5QObk7UJ4",
@@ -359,13 +331,6 @@
             "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/No me digas que ya te vas-iKj5hG7plxY.mp4?raw=true"
         },
         {
-            "id": "MhRi6GRDsg8",
-            "name": "Megatron Man-MhRi6GRDsg8.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/n/videos/Megatron Man-MhRi6GRDsg8.mp4",
-            "size": 15.719066999999999,
-            "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/Megatron Man-MhRi6GRDsg8.mp4?raw=true"
-        },
-        {
             "id": "Bhx96Nt5hyQ",
             "name": "No Particular Place To Go-Bhx96Nt5hyQ.mp4",
             "path": "/home/alanmatzumiya/Videos/container/n/videos/No Particular Place To Go-Bhx96Nt5hyQ.mp4",
@@ -380,13 +345,6 @@
             "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/Nancy Sinatra - These Boots Are Made for Walkin'-SbyAZQ45uww.mp4?raw=true"
         },
         {
-            "id": "SBacb2sFdbU",
-            "name": "John Lee Hooker - I'm Bad Like Jesse James (HQ) Subtitulada al español-SBacb2sFdbU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/n/videos/John Lee Hooker - I'm Bad Like Jesse James (HQ) Subtitulada al español-SBacb2sFdbU.mp4",
-            "size": 7.848996,
-            "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/John Lee Hooker - I'm Bad Like Jesse James (HQ) Subtitulada al español-SBacb2sFdbU.mp4?raw=true"
-        },
-        {
             "id": "6X6CSKyYhRM",
             "name": "No Sufras Corazón - Julion Alvarez ( LETRA ) ESTRENO 2019-6X6CSKyYhRM.mp4",
             "path": "/home/alanmatzumiya/Videos/container/n/videos/No Sufras Corazón - Julion Alvarez ( LETRA ) ESTRENO 2019-6X6CSKyYhRM.mp4",
@@ -399,13 +357,6 @@
             "path": "/home/alanmatzumiya/Videos/container/n/videos/No Vuelvo Amar - Los Cadetes de Linares-0BmIDmMyfpM.mp4",
             "size": 7.772063999999999,
             "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/No Vuelvo Amar - Los Cadetes de Linares-0BmIDmMyfpM.mp4?raw=true"
-        },
-        {
-            "id": "fY5IHw3jMiE",
-            "name": "RETROMIXLEVEL42ERASUREPSB httpssoundcloudcomramiro-miranda-961836593my-megamix-big-late-80s-fY5IHw3jMiE.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/n/videos/RETROMIXLEVEL42ERASUREPSB httpssoundcloudcomramiro-miranda-961836593my-megamix-big-late-80s-fY5IHw3jMiE.mp4",
-            "size": 27.116847,
-            "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/RETROMIXLEVEL42ERASUREPSB httpssoundcloudcomramiro-miranda-961836593my-megamix-big-late-80s-fY5IHw3jMiE.mp4?raw=true"
         },
         {
             "id": "A7rpaMawCTU",
@@ -436,13 +387,6 @@
             "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/Travelers All Stars - Dont Give Up (Video Oficial)-WLYmzRxV58U.mp4?raw=true"
         },
         {
-            "id": "f-JXtXI28ps",
-            "name": "Ni negro ni blanco-f-JXtXI28ps.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/n/videos/Ni negro ni blanco-f-JXtXI28ps.mp4",
-            "size": 7.050428999999999,
-            "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/Ni negro ni blanco-f-JXtXI28ps.mp4?raw=true"
-        },
-        {
             "id": "WWOuLiYfjV0",
             "name": "No Me Vengan A Salvar-WWOuLiYfjV0.mp4",
             "path": "/home/alanmatzumiya/Videos/container/n/videos/No Me Vengan A Salvar-WWOuLiYfjV0.mp4",
@@ -469,13 +413,6 @@
             "path": "/home/alanmatzumiya/Videos/container/n/videos/No te la vas a acabar (En vivo)-INQOThGAHHs.mp4",
             "size": 5.336491,
             "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/No te la vas a acabar (En vivo)-INQOThGAHHs.mp4?raw=true"
-        },
-        {
-            "id": "ewdGgmJl59g",
-            "name": "NEWCLEUS - JAM ON IT-ewdGgmJl59g.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/n/videos/NEWCLEUS - JAM ON IT-ewdGgmJl59g.mp4",
-            "size": 34.096927,
-            "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/NEWCLEUS - JAM ON IT-ewdGgmJl59g.mp4?raw=true"
         },
         {
             "id": "Nm4LAxfrvic",
@@ -518,13 +455,6 @@
             "path": "/home/alanmatzumiya/Videos/container/n/videos/Corina Smith, Kevin Roldan - No Somos Nada (Video Oficial)-RCl-vbqAm3c.mp4",
             "size": 8.151214,
             "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/Corina Smith, Kevin Roldan - No Somos Nada (Video Oficial)-RCl-vbqAm3c.mp4?raw=true"
-        },
-        {
-            "id": "WLYmzRxV58U",
-            "name": "Travelers All Stars - Don't Give Up (Video Oficial)-WLYmzRxV58U.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/n/videos/Travelers All Stars - Don't Give Up (Video Oficial)-WLYmzRxV58U.mp4",
-            "size": 40.84814,
-            "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/Travelers All Stars - Don't Give Up (Video Oficial)-WLYmzRxV58U.mp4?raw=true"
         },
         {
             "id": "-dI4oTssDhE",
@@ -590,5 +520,5 @@
             "url": "https://github.com/circuitalmynds/music_n/blob/main/videos/Franc Moody - Night Flight (Live)-_YpZjRYBDGg.mp4?raw=true"
         }
     ],
-    "total_size": 1094.6891939999998
+    "total_size": 845.2418739999999
 }
